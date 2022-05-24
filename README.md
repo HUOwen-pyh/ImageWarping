@@ -1,7 +1,6 @@
 # image-warping
 ## Introduction
-Inplementation of two image warping algorithms proposed by "Image warping with scattered data interpolation | IEEE Computer Graphics and Applications, 1995, 15(2): 37-43." 
-and "Image warping using few anchor points and radial functions | Computer graphics forum. Blackwell Science Ltd, 1995, 14(1): 35-46." respectively.
+Inplementation of two image warping algorithms proposed respectively by "Image warping with scattered data interpolation | IEEE Computer Graphics and Applications, 1995, 15(2): 37-43." and "Image warping using few anchor points and radial functions | Computer graphics forum. Blackwell Science Ltd, 1995, 14(1): 35-46.".
 The project is written under the framework of Qt5 and uses [Eigen library](https://eigen.tuxfamily.org/index.php?title=Main_Page) for matrix caculation. 
 Please configure the environment before executing this project.
 ## Effect diagrams
